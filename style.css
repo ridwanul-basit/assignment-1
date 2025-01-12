@@ -89,6 +89,7 @@ padding-right: 55px;
 
 }
 .card1{
+    width: 450px;
 padding-right: 20px;
 text-align: justify;
 padding-top: 10px;
@@ -99,6 +100,7 @@ padding-bottom: 20px;
 margin-right: 20px;
 }
 .card2{
+    width: 450px;
 padding-right: 20px;
 text-align: justify;
 padding-top: 10px;
@@ -109,6 +111,7 @@ padding-bottom: 20px;
 margin-right: 20px;
 }
 .card3{
+    width: 450px;
 padding-right: 20px;
 text-align: justify;
 padding-top: 10px;
