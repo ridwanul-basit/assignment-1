@@ -7,7 +7,7 @@ body{
     /* Frame 4 */
 position: static;
 width: 1150px;
-height: 400px;
+height: 350px;
 /* Auto layout */
 display: flex;
 flex-direction: row-reverse;
@@ -29,7 +29,7 @@ p{
 }
 .main-h1{
     /* Idea , innovation , vision and challenges in New Bangladesh. */
-width: 600px;
+width: 6500px;
 height: 300px;
 /* Auto layout */
 
@@ -48,13 +48,14 @@ flex-grow: 0;
 margin: 10px 0px;
 color: rgb(14, 14, 14);
 font-family: Fira Sans;
-font-size: 22px;
+font-size: 19px;
 font-weight: 300;
 }
 .main-h2{
 width: 600px;
 height: 450px;
-margin: 40px 0px;
+margin-top: 40px;
+margin-bottom: 5px;
 }
 .main-h .btn1{
 border-radius: 8px;
